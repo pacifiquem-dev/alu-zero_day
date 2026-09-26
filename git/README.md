@@ -1,1 +1,7 @@
 Root readme inside directory
+git checkout master
+git pull origin master
+echo 'git pull origin master' > up_to_date
+git add up_to_date
+git commit -m "How to be up to date in git"
+git push origin master 
